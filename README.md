@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# GifExpertApp
+Project created as react personal project for testing porpuses.
+Here includes:
+* Components
+* Communication between componets
+* Hooks and Custom Hooks
+* Getting data from external Api (Giphy)
+* Mapping response to my needs
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
